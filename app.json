@@ -1,0 +1,8 @@
+{
+  "name": "tradier-react",
+  "description": "Simple starter package for implementing Tradier with Redux, React, and Babel support",
+  "repository": "git@github.com:ctrl-alt-p/tradier-react.git",
+  "logo": "https://www.gnu.org/graphics/heckert_gnu.small.png",
+  "keywords": ["node", "express", "static", "react", "webpack"],
+  "addons": []
+}
